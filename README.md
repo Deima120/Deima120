@@ -5,6 +5,7 @@
 <br />
 
 [![Portfolio](https://img.shields.io/badge/🚀_Proyecto_destacado-Mr.kutz-8B5CF6?style=for-the-badge)](https://mrkutz.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-garcia-48950a420/)
 [![GitHub](https://img.shields.io/badge/GitHub-Deima120-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deima120)
 [![Email](https://img.shields.io/badge/Email-emanuelvanegas83-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelvanegas83@gmail.com)
 
