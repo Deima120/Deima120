@@ -5,8 +5,8 @@
 <br />
 
 [![Portfolio](https://img.shields.io/badge/🚀_Proyecto_destacado-Mr.kutz-8B5CF6?style=for-the-badge)](https://mrkutz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelvanegas83@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Deima120-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deima120)
+[![Email](https://img.shields.io/badge/Email-emanuelvanegas83-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelvanegas83@gmail.com)
 
 </div>
 
@@ -20,10 +20,12 @@ Me apasiona el **análisis y desarrollo de software** — no solo escribir códi
 
 ```js
 const emanuel = {
+  name: "Emanuel García",
   role: "Full Stack Developer",
   location: "Colombia",
+  email: "emanuelvanegas83@gmail.com",
   focus: ["React", "Node.js", "PostgreSQL", "Python", "C#"],
-  currently: "Mr. Kutz — plataforma de gestión para barberías",
+  currently: "Mr. Kutz — plataforma de gestión para barberías en producción",
   learning: ["Flutter", "Computer Vision", "System Design"],
 };
 ```
